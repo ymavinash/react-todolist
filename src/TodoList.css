@@ -1,0 +1,35 @@
+input[type=text]{
+    width: 500px;
+    height: 25px;
+    margin-top:30px ;
+    margin-bottom: 30px;
+    background: rgba(255, 255, 255, 0.562);
+}
+button{
+    width: 200px;
+    height: 25px;
+    background-color: rgb(234, 210, 75);
+    border-radius: 5px;
+    border-width: 1px;
+    cursor: pointer;
+    font-family:'Times New Roman', Times, serif;
+    margin-right: 700px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+
+}
+#AT{
+    margin-right: 0px;
+}
+button:hover{
+    background-color: rgb(103, 93, 33);
+}
+h3{
+    background: rgba(255, 255, 255, 0.296);
+    border-radius: 5px;
+    text-align: right;
+
+}
+h1{
+    font-family:'Times New Roman', Times, serif
+}
